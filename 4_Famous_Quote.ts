@@ -1,0 +1,1 @@
+console.log('gandi say,"tm mujhe khoon do mai tm ko azaadi duga');
